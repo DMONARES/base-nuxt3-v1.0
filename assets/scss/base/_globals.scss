@@ -1,9 +1,14 @@
+html {
+	scroll-behavior: smooth;
+}
+
 body {
   font-family: var(--font-family-base);
   font-weight: 400;
   line-height: 1.28; // значение по умолчанию в Chrome
   color: var(--color-dark);
   background-color: var(--color-light);
+	text-wrap: balance;
 }
 a,
 button,
