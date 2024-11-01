@@ -1,0 +1,22 @@
+:root
+{
+  --color-dark: #191A23;
+
+  --border: 1px solid var(--color-dark);
+  --border-radius: 14px;
+
+  --shadow: 0 5px 0 0 var(--color-dark);
+
+  --font-family-base: 'Montserrat', sans-serif;
+
+
+  --container-width: 1240px;
+  --container-padding-x: 20px;
+
+  --section-padding-y: 70px;
+
+  --input-height: 59px;
+  --button-height: 68px;
+
+  --transition-duration: 0.2s;
+}
